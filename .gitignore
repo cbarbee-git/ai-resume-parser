@@ -1,0 +1,32 @@
+
+# VSCODE
+/.vscode
+
+# Credential files
+**/.htpasswd
+
+# Packages
+/node_modules
+/packages
+/vender
+
+# Mac/OSX
+.DS_Store
+
+# Environments
+#Congfig file with API Keys
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+/.well-known
+
+#Don't commit the extracted data file
+resumes_extracted_data.csv
+
+#Folder with the PDF resumes
+resumes/*
+
